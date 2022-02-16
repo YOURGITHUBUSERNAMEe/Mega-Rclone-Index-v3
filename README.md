@@ -1,2 +1,0 @@
-# Mega-Rclone-Index-v3
-YOURGITHUBUSERNAME
